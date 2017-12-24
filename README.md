@@ -1,8 +1,8 @@
-## Sample data for BreatheEasyEDA
+##Sample data for BreatheEasyEDA
 
 
 -----------------------------
-**Experiment Summary**  
+###Experiment Summary 
 
 
 Participants viewed 50 negative, 50 positive, and 50 neutral images from the 
@@ -14,7 +14,7 @@ data were collected.
 
 
 -----------------------------
-**Trial-type information**  
+###Trial-type information  
 
 
 * __sync summary event # 1 StartRecording__
