@@ -17,6 +17,7 @@ data were collected.
 ### Trial-type information  
 
 
+
 * __sync summary event # 1 StartRecording__
   * physiology recording begins—note: the first instance of this marks the very beginning 
   of the recording, the remainder of the time this event is listed is erroneous and 
